@@ -11,6 +11,7 @@
 #import <Foundation/NSString.h>
 #import <UIKit/UIKit.h>
 #import <MessageUI/MessageUI.h>
+#import <Dirsite/aboutme.h>
 
 // declare an ObjC++ class that will interact with the mail controller
 // that second member that is called when the mail app is finished is critical for this to work
